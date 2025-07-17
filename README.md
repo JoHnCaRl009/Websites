@@ -154,18 +154,7 @@
     <button class="back-button" onclick="goTo('screen4')">← Back</button>
     <h2>Just being honest</h2>
     <p class="confession">
-Hi,
-
-I’ve been holding this in for a while now,  
-and I don’t really know how to say it properly.  
-
-So I made this.  
-
-I like you. Not just in a friendly way 
-it’s something more than that.  
-
-No pressure or anything.  
-Just wanted to be real with you. You can take this as a Compliment.
+Hi,I’ve been holding this in for a while now, and I don’t really know how to say it properly. So I made this. I like you. Not just in a friendly way it’s something more than that. No pressure or anything. Just wanted to be real with you. You can take this as a Compliment.
     </p>
   </div>
 
